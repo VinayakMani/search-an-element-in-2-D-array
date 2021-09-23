@@ -26,7 +26,7 @@ int main(){
   }
 
   //Enter the search element
-  printf("Enter the element to get the position: \n");
+  printf("Enter the element to search: \n");
   scanf("%d", &srchElement);
 
   for(int i=0; i<rows; i++){
